@@ -1,1 +1,1 @@
-Repository for 5th semester programme elective -AI and NN
+Repository for 5th Semester Programme Elective of AI and NN
